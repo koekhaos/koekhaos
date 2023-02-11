@@ -1,5 +1,7 @@
-### Hi there 👋
-
+```python
+print("Hello World! Happy to be here at Github.");
+```
+### Enjoying learning more about Gitbhub, programming and open source projects. ✨ Really excited by open source projects like [Blender](http://blender.org) and [Godot](https://godotengine.org/).
 <!--
 **koekhaos/koekhaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
